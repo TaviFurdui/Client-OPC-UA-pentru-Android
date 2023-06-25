@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ij6Uq/+Sesb5zLLnvaWwvKjcCZf5lf0BvHwfyTX0POUR0PLYV3oWBf+JGsyqSw6jiqdmfTYa37T7WleewlW9AQ==",
+  "dgSpecHash": "j4PhRJ/44DK0hbQyrvp45hJwvU0NXjjxvQ9BY4at4DIjjiwHKAKKUsX1A0fKVUua1gYLzd/Ey/i3uzfo89rcWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Licenta\\Licenta.iOS\\Licenta.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Client-OPC-UA-pentru-Android\\Licenta\\Licenta.iOS\\Licenta.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Skullcandy\\.nuget\\packages\\fody\\6.0.5\\fody.6.0.5.nupkg.sha512",
     "C:\\Users\\Skullcandy\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

@@ -7421,17 +7421,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Licenta\\Licenta.iOS\\Licenta.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Client-OPC-UA-pentru-Android\\Licenta\\Licenta.iOS\\Licenta.iOS.csproj",
       "projectName": "Licenta.iOS",
-      "projectPath": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Licenta\\Licenta.iOS\\Licenta.iOS.csproj",
+      "projectPath": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Client-OPC-UA-pentru-Android\\Licenta\\Licenta.iOS\\Licenta.iOS.csproj",
       "packagesPath": "C:\\Users\\Skullcandy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Licenta\\Licenta.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Client-OPC-UA-pentru-Android\\Licenta\\Licenta.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
+        "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Client-OPC-UA-pentru-Android\\NuGet.Config",
         "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\NuGet.Config",
         "C:\\Users\\Skullcandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
@@ -7446,8 +7447,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Licenta\\Licenta\\Licenta.csproj": {
-              "projectPath": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Licenta\\Licenta\\Licenta.csproj"
+            "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Client-OPC-UA-pentru-Android\\Licenta\\Licenta\\Licenta.csproj": {
+              "projectPath": "C:\\Users\\Skullcandy\\source\\repos\\Licenta\\Client-OPC-UA-pentru-Android\\Licenta\\Licenta\\Licenta.csproj"
             }
           }
         }
